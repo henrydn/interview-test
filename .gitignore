@@ -1,0 +1,6 @@
+﻿*.solution
+obj
+bin
+.idea
+.vs
+*.user
